@@ -100,3 +100,7 @@
 	{
 		text-decoration:none;
 	}
+	#corps section a:hover
+	{
+		text-decoration:underline;
+	}
