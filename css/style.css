@@ -96,3 +96,7 @@
 	{
 		font-weight:bold;
 	}
+	#corps section a
+	{
+		text-decoration:none;
+	}
